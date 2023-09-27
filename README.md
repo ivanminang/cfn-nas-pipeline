@@ -6,4 +6,5 @@ The deployment steps are following :
 2. Deploy the network Stack named "networkStack"
 3. Deploy the Server Stack named "serverStack"
 4. Deploy the DNS Stack named "dnsStack"
+   
 The repository also contains a buildspec file that describe the building process. 
